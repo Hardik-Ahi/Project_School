@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "264254584547",
+    "project_id": "virtual-training-e51cd",
+    "storage_bucket": "virtual-training-e51cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264254584547:android:130e29b95a205fba6377d6",
+        "android_client_info": {
+          "package_name": "com.example.virtual_training"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264254584547-f0fjl0ib1n25re9e4kjbuc48fl59an2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRph8rllQn8GByq5QXi9hlzJMd_U91LlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264254584547-f0fjl0ib1n25re9e4kjbuc48fl59an2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
